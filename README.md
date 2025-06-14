@@ -28,3 +28,4 @@ cd aulajs-minsait
 live-server .
 ```
 Dessa forma você consegue reproduzir o projeto em menos de um minuto.
+
