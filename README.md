@@ -1,6 +1,6 @@
-Desafio JavaScript — Minsait
+## Desafio JavaScript — Minsait
 
-Página extra desenvolvida para a capacitação Minsait em JavaScript:
+Página extra desenvolvida para a capacitação Minsait em JavaScript
 
 Tecnologias: HTML + CSS + JS puro
 
